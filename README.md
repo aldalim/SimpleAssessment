@@ -34,7 +34,7 @@ This README provides a detailed guide to navigating and understanding the variou
 - JavaScript: Used for dynamic data loading, processing, and DOM manipulation.
 
 
-**Accessing the Project**
+### Accessing the Project
 ### Viewing the Live Site
 This project is hosted on Netlify, providing a reliable and real-time view of the deployed application. You can access the live site by clicking on the following link:
 - [View Live Site](https://main--asssessment-aldalim.netlify.app)
@@ -52,7 +52,7 @@ For development and testing purposes, you can also run this project locally usin
    - This will launch a local server and open your default web browser to `http://127.0.0.1:5500`, or another port if specified.
 
 
-**Usage**
+### Usage
 
 Once the project is running locally, it will automatically load the data from the Table_Input.csv file. The main web page will display two tables:
 
